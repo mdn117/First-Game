@@ -1,0 +1,3 @@
+# First-Game
+Attempt at side-scrolling adventure game using pygame module in python 
+4/17/2019 at 6:32 PM PT -- added starting code...
